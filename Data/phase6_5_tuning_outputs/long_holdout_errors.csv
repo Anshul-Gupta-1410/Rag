@@ -1,0 +1,2 @@
+query_id,query,expected_document,rank,top1,top3,top5
+7,My spouse and I are expecting a baby in a few months and I want to understand the full maternity and paternity leave policy including how it interacts with California state disability programs,New Parent Leave.md,2,False,True,True

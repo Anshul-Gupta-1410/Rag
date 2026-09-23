@@ -1,0 +1,1630 @@
+{
+  "evaluation_date": "2026-08-15T14:28:01.367747",
+  "total_queries": 116,
+  "results": [
+    {
+      "query": "How much vacation time do employees get?",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "Sabbatical.md",
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I take leave after having a baby?",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "Vacation and Sick Leave.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What holidays does the company observe?",
+      "expected": "Holiday List.md",
+      "retrieved": [
+        "Holiday List.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Vacation and Sick Leave.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How many days of PTO do I earn per month?",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "New Parent Leave.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm not feeling well today, how does sick leave work?",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Is Thanksgiving a day off at Clef?",
+      "expected": "Holiday List.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md",
+        "Drug and Alcohol Policy.md",
+        "Welcome to Clef.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "My partner and I are adopting a child — what leave am I entitled to?",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "At-Will Employment.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Do fathers get parental leave too or just mothers?",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What happens if a holiday falls on a weekend?",
+      "expected": "Holiday List.md",
+      "retrieved": [
+        "Holiday List.md",
+        "Welcome to Clef.md",
+        "Policy Changes.md",
+        "Communication and Transparency.md",
+        "Vacation and Sick Leave.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I need some time away, what are my options?",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Vacation and Sick Leave.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": true
+    },
+    {
+      "query": "How long do I have to work before I'm eligible for a sabbatical?",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Sabbatical.md",
+        "New Parent Leave.md",
+        "Working Remotely.md",
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is the duration of the sabbatical at Clef?",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Sabbatical.md",
+        "Vacation and Sick Leave.md",
+        "New Parent Leave.md",
+        "Welcome to Clef.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I use my sabbatical to start a side business?",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Sabbatical.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Do I still accrue vacation days while on sabbatical?",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Sabbatical.md",
+        "Vacation and Sick Leave.md",
+        "Working Remotely.md",
+        "New Parent Leave.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I've been here 5 years, what's the deal with the long break?",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "Sabbatical.md",
+        "Welcome to Clef.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is the annual learning budget for employees?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Budgeting.md",
+        "Continuing Education.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I use company money to attend a conference?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Effective Meetings.md",
+        "Continuing Education.md",
+        "Policy Changes.md",
+        "Budgeting.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does Clef pay for online courses and books?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Continuing Education.md",
+        "Other Protected Absences.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How much does Clef reimburse for speaking at events?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Working Remotely.md",
+        "Referral Bonuses.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Is there a mentorship program at Clef?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Continuing Education.md",
+        "Referral Bonuses.md",
+        "Continuing Education.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I joined in June, is my learning budget still $4,000?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Budgeting.md",
+        "Working Remotely.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How many hours per week can I spend on learning projects?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Vacation and Sick Leave.md",
+        "Welcome to Clef.md",
+        "Policy Changes.md",
+        "Hack Weeks.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does the learning budget roll over to the next year?",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Budgeting.md",
+        "Continuing Education.md",
+        "Sabbatical.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What health insurance does Clef offer?",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "Equal Opportunity Employment.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does the company cover dental and vision?",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "Policy Changes.md",
+        "Equal Opportunity Employment.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What percentage of health insurance does Clef pay for dependents?",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "New Parent Leave.md",
+        "Salary and Equity Compensation.md",
+        "Equal Opportunity Employment.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I already have insurance through my spouse, can I opt out?",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "At-Will Employment.md",
+        "New Parent Leave.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "When does my health coverage start after joining?",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Effective Meetings.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Is there life insurance or disability coverage?",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "Other Protected Absences.md",
+        "Equal Opportunity Employment.md",
+        "New Parent Leave.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How is salary determined at Clef?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Referral Bonuses.md",
+        "Continuing Education.md",
+        "Handbook Introduction.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What's the salary for a technical employee with more than 5 years experience?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Continuing Education.md",
+        "Referral Bonuses.md",
+        "Objectives and Key Results.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How many stock options do new employees receive?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Referral Bonuses.md",
+        "Healthcare and Disability Insurance.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is the equity vesting schedule?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Objectives and Key Results.md",
+        "Budgeting.md",
+        "Policy Changes.md",
+        "Objectives and Key Results.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I trade $5k of salary for more equity?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "At-Will Employment.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Why doesn't Clef negotiate salaries individually?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Referral Bonuses.md",
+        "Continuing Education.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How much do the founders make?",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Budgeting.md",
+        "Complaint Policy.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Objectives and Key Results.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How much is the referral bonus?",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Continuing Education.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Healthcare and Disability Insurance.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "If I refer someone who gets hired, when do I get paid?",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "At-Will Employment.md",
+        "New Parent Leave.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What's the process for referring a friend to work at Clef?",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Continuing Education.md",
+        "Direct Reports.md",
+        "Welcome to Clef.md",
+        "Complaint Policy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Are founders eligible for the referral bonus?",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Salary and Equity Compensation.md",
+        "Continuing Education.md",
+        "Salary and Equity Compensation.md",
+        "Complaint Policy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How long does a referred candidate have to be hired within?",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Salary and Equity Compensation.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How many days of bereavement leave can I take?",
+      "expected": "Other Protected Absences.md",
+      "retrieved": [
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I got called for jury duty, am I still paid?",
+      "expected": "Other Protected Absences.md",
+      "retrieved": [
+        "Other Protected Absences.md",
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "At-Will Employment.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "My mother-in-law passed away, can I take time off?",
+      "expected": "Other Protected Absences.md",
+      "retrieved": [
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is pregnancy disability leave and how long is it?",
+      "expected": "Other Protected Absences.md",
+      "retrieved": [
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Healthcare and Disability Insurance.md",
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I have a family emergency, what should I do?",
+      "expected": "Other Protected Absences.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What's Clef's policy on working from home?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I work remotely for a whole week?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Do I need my manager's approval to work remotely for an extended period?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does Clef pay for coworking spaces?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What happens if I'm not performing well while working remotely?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Effective Meetings.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How far in advance do I need to notify the team about extended remote work?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I want to work from my partner's place in another city for a few days — what do I need to do?",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can the company read my emails?",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does Clef monitor internet usage?",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Product Manifesto.md",
+        "Working Remotely.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can my manager search my desk or laptop?",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Is it okay to send personal emails from my work account?",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What should I do if I think my computer has a virus?",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md",
+        "Working Remotely.md",
+        "Product Manifesto.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I share my work email password with a coworker?",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Working Remotely.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What behavior is not tolerated in Clef community spaces?",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Code of Conduct in the Community.md",
+        "Complaint Policy.md",
+        "Drug and Alcohol Policy.md",
+        "Working Remotely.md",
+        "Product Manifesto.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Someone is being rude in the Clef Slack channel — what should I do?",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Code of Conduct in the Community.md",
+        "Policy Changes.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does the code of conduct apply to Twitter and Facebook?",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Code of Conduct in the Community.md",
+        "Employee Privacy.md",
+        "Policy Changes.md",
+        "Employee Privacy.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Who do I contact about harassment in a Clef community?",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Code of Conduct in the Community.md",
+        "Complaint Policy.md",
+        "Complaint Policy.md",
+        "Drug and Alcohol Policy.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How do I file a workplace complaint at Clef?",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Other Protected Absences.md",
+        "Complaint Policy.md",
+        "Policy Changes.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Will I face retaliation for reporting a problem?",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Employee Privacy.md",
+        "Code of Conduct in the Community.md",
+        "Complaint Policy.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What happens after I submit a complaint?",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Complaint Policy.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What if my complaint is about one of the founders?",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Complaint Policy.md",
+        "Budgeting.md",
+        "Policy Changes.md",
+        "One on Ones.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Is alcohol allowed in the office?",
+      "expected": "Drug and Alcohol Policy.md",
+      "retrieved": [
+        "Drug and Alcohol Policy.md",
+        "One on Ones.md",
+        "Complaint Policy.md",
+        "Employee Privacy.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is Clef's policy on recreational drug use?",
+      "expected": "Drug and Alcohol Policy.md",
+      "retrieved": [
+        "Drug and Alcohol Policy.md",
+        "Other Protected Absences.md",
+        "Complaint Policy.md",
+        "Code of Conduct in the Community.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can we have beer at a company celebration?",
+      "expected": "Drug and Alcohol Policy.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Drug and Alcohol Policy.md",
+        "Working Remotely.md",
+        "Continuing Education.md",
+        "Policy Changes.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can Clef fire me without a reason?",
+      "expected": "At-Will Employment.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Other Protected Absences.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What does at-will employment mean at Clef?",
+      "expected": "At-Will Employment.md",
+      "retrieved": [
+        "At-Will Employment.md",
+        "Other Protected Absences.md",
+        "Equal Opportunity Employment.md",
+        "Handbook Introduction.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Who can change my at-will employment status?",
+      "expected": "At-Will Employment.md",
+      "retrieved": [
+        "At-Will Employment.md",
+        "Policy Changes.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Does Clef discriminate based on gender or race?",
+      "expected": "Equal Opportunity Employment.md",
+      "retrieved": [
+        "Equal Opportunity Employment.md",
+        "Code of Conduct in the Community.md",
+        "Employee Privacy.md",
+        "Welcome to Clef.md",
+        "Complaint Policy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is Clef's stance on diversity in hiring?",
+      "expected": "Equal Opportunity Employment.md",
+      "retrieved": [
+        "Equal Opportunity Employment.md",
+        "Salary and Equity Compensation.md",
+        "Welcome to Clef.md",
+        "Code of Conduct in the Community.md",
+        "Complaint Policy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What are Clef's core values?",
+      "expected": "Clef Values.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Continuing Education.md",
+        "Equal Opportunity Employment.md",
+        "Handbook Introduction.md",
+        "Sharing Files.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What does 'be better today than yesterday' mean?",
+      "expected": "Clef Values.md",
+      "retrieved": [
+        "Clef Values.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Objectives and Key Results.md",
+        "Clef Values.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How does Clef think about inclusion?",
+      "expected": "Clef Values.md",
+      "retrieved": [
+        "Equal Opportunity Employment.md",
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Direct Reports.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "Why does Clef emphasize trust?",
+      "expected": "Clef Values.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "One on Ones.md",
+        "Employee Privacy.md",
+        "Communication and Transparency.md",
+        "Product Manifesto.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What is Clef's mission?",
+      "expected": "Mission Statement.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Handbook Introduction.md",
+        "Welcome to Clef.md",
+        "Direct Reports.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What problem is Clef trying to solve?",
+      "expected": "Mission Statement.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Product Manifesto.md",
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What should I expect on my first day at Clef?",
+      "expected": "Welcome to Clef.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Referral Bonuses.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What are the typical working hours at Clef?",
+      "expected": "Welcome to Clef.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Vacation and Sick Leave.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Continuing Education.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How does Clef celebrate a new employee's first day?",
+      "expected": "Welcome to Clef.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Policy Changes.md",
+        "Continuing Education.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I just got hired, where do I start?",
+      "expected": "Welcome to Clef.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Welcome to Clef.md",
+        "Working Remotely.md",
+        "Budgeting.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is the goal for my first day at work?",
+      "expected": "Welcome to Clef.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Effective Meetings.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Who is the CEO of Clef?",
+      "expected": "Handbook Introduction.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Handbook Introduction.md",
+        "Direct Reports.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is the purpose of the employee handbook?",
+      "expected": "Handbook Introduction.md",
+      "retrieved": [
+        "Handbook Introduction.md",
+        "Policy Changes.md",
+        "Policy Changes.md",
+        "Working Remotely.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How often are one-on-one meetings held?",
+      "expected": "One on Ones.md",
+      "retrieved": [
+        "One on Ones.md",
+        "One on Ones.md",
+        "Effective Meetings.md",
+        "One on Ones.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Who sets the agenda for 1:1 meetings?",
+      "expected": "One on Ones.md",
+      "retrieved": [
+        "One on Ones.md",
+        "One on Ones.md",
+        "Effective Meetings.md",
+        "Effective Meetings.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What's the minimum duration of a one on one?",
+      "expected": "One on Ones.md",
+      "retrieved": [
+        "One on Ones.md",
+        "One on Ones.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How are OKRs scored at Clef?",
+      "expected": "Objectives and Key Results.md",
+      "retrieved": [
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Direct Reports.md",
+        "Salary and Equity Compensation.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How often do we set OKRs?",
+      "expected": "Objectives and Key Results.md",
+      "retrieved": [
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Working Remotely.md",
+        "One on Ones.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Are OKRs used for performance reviews?",
+      "expected": "Objectives and Key Results.md",
+      "retrieved": [
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Direct Reports.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is a good OKR score?",
+      "expected": "Objectives and Key Results.md",
+      "retrieved": [
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Clef Values.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What happens on Fridays in terms of team updates?",
+      "expected": "Communication and Transparency.md",
+      "retrieved": [
+        "Policy Changes.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How should I use Slack when working remotely?",
+      "expected": "Communication and Transparency.md",
+      "retrieved": [
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Should conversations happen in public or private Slack channels?",
+      "expected": "Communication and Transparency.md",
+      "retrieved": [
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Who do employees report to at Clef?",
+      "expected": "Direct Reports.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Direct Reports.md",
+        "Employee Privacy.md",
+        "Other Protected Absences.md",
+        "Referral Bonuses.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What is Clef's core product value?",
+      "expected": "Product Manifesto.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Equal Opportunity Employment.md",
+        "Continuing Education.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "Why do people love using Clef over other login solutions?",
+      "expected": "Product Manifesto.md",
+      "retrieved": [
+        "Product Manifesto.md",
+        "Product Manifesto.md",
+        "Welcome to Clef.md",
+        "Employee Privacy.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How is company spending organized at Clef?",
+      "expected": "Budgeting.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Welcome to Clef.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What are the budget categories at Clef?",
+      "expected": "Budgeting.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Sharing Files.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "What is a hack week and when does it happen?",
+      "expected": "Hack Weeks.md",
+      "retrieved": [
+        "Hack Weeks.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I work on personal projects during hack week?",
+      "expected": "Hack Weeks.md",
+      "retrieved": [
+        "Hack Weeks.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Policy Changes.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How should files and projects be organized at Clef?",
+      "expected": "Sharing Files.md",
+      "retrieved": [
+        "Sharing Files.md",
+        "Communication and Transparency.md",
+        "Welcome to Clef.md",
+        "Sharing Files.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What are the base directories every Clef employee should have?",
+      "expected": "Sharing Files.md",
+      "retrieved": [
+        "Sharing Files.md",
+        "Communication and Transparency.md",
+        "Handbook Introduction.md",
+        "Employee Privacy.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What are the meeting time requirements at Clef?",
+      "expected": "Effective Meetings.md",
+      "retrieved": [
+        "Welcome to Clef.md",
+        "One on Ones.md",
+        "Continuing Education.md",
+        "Welcome to Clef.md",
+        "Vacation and Sick Leave.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "Do meetings need to have a video call option?",
+      "expected": "Effective Meetings.md",
+      "retrieved": [
+        "Effective Meetings.md",
+        "Policy Changes.md",
+        "Working Remotely.md",
+        "Effective Meetings.md",
+        "One on Ones.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How are policy changes proposed and adopted at Clef?",
+      "expected": "Policy Changes.md",
+      "retrieved": [
+        "Policy Changes.md",
+        "Working Remotely.md",
+        "Welcome to Clef.md",
+        "Salary and Equity Compensation.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What tools does Clef use for policy discussions?",
+      "expected": "Policy Changes.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Welcome to Clef.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md",
+        "Continuing Education.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": true
+    },
+    {
+      "query": "What kind of time off can I get after becoming a new parent?",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Vacation and Sick Leave.md",
+        "Sabbatical.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "How does taking parental leave affect my sabbatical eligibility?",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Sabbatical.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "What's the difference between sick leave and vacation?",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Sabbatical.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "If something bad happens at work who should I talk to — my manager or HR?",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "One on Ones.md",
+        "One on Ones.md",
+        "Effective Meetings.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "Does the code of conduct apply inside the office or only online?",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Code of Conduct in the Community.md",
+        "Employee Privacy.md",
+        "Working Remotely.md",
+        "Complaint Policy.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+query_id,query,expected_document,rank,top1,top3,top5
+24,What should I expect on my first day at Clef?,Welcome to Clef.md,2,False,True,True
+20,How much do the founders make?,Salary and Equity Compensation.md,3,False,True,True
+2,How does Clef think about inclusion?,Clef Values.md,999,False,False,False
+6,What are the budget categories at Clef?,Budgeting.md,999,False,False,False
+13,What are the meeting time requirements at Clef?,Effective Meetings.md,999,False,False,False
+10,What are Clef's core values?,Clef Values.md,999,False,False,False

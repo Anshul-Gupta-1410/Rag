@@ -1,0 +1,3 @@
+Dataset,Queries,Semantic Top-K,Final Top-K,Top-1 (%),Top-3 (%),Top-5 (%)
+Short Holdout,24,10,5,75.0,83.33333333333334,83.33333333333334
+Long Holdout,9,10,5,88.88888888888889,100.0,100.0

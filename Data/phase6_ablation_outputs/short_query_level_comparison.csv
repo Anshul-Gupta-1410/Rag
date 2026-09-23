@@ -1,0 +1,117 @@
+query_id,query,expected_document,A_semantic_rank,B_hybrid_rank,C_semantic_reranker_rank,D_hybrid_reranker_rank
+1,How much vacation time do employees get?,Vacation and Sick Leave.md,1,1,1,1
+2,Can I take leave after having a baby?,New Parent Leave.md,1,1,1,1
+3,What holidays does the company observe?,Holiday List.md,1,1,1,1
+4,How many days of PTO do I earn per month?,Vacation and Sick Leave.md,1,1,1,1
+5,"I'm not feeling well today, how does sick leave work?",Vacation and Sick Leave.md,1,2,1,1
+6,Is Thanksgiving a day off at Clef?,Holiday List.md,999,1,999,999
+7,My partner and I are adopting a child — what leave am I entitled to?,New Parent Leave.md,1,2,1,1
+8,Do fathers get parental leave too or just mothers?,New Parent Leave.md,1,2,2,2
+9,What happens if a holiday falls on a weekend?,Holiday List.md,1,1,1,1
+10,"I need some time away, what are my options?",Vacation and Sick Leave.md,5,999,999,999
+11,How long do I have to work before I'm eligible for a sabbatical?,Sabbatical.md,1,1,1,1
+12,What is the duration of the sabbatical at Clef?,Sabbatical.md,1,1,1,1
+13,Can I use my sabbatical to start a side business?,Sabbatical.md,1,1,1,1
+14,Do I still accrue vacation days while on sabbatical?,Sabbatical.md,1,1,1,1
+15,"I've been here 5 years, what's the deal with the long break?",Sabbatical.md,2,2,1,1
+16,What is the annual learning budget for employees?,Continuing Education.md,1,1,1,1
+17,Can I use company money to attend a conference?,Continuing Education.md,1,1,1,1
+18,Does Clef pay for online courses and books?,Continuing Education.md,2,1,1,1
+19,How much does Clef reimburse for speaking at events?,Continuing Education.md,1,3,1,1
+20,Is there a mentorship program at Clef?,Continuing Education.md,1,1,1,1
+21,"I joined in June, is my learning budget still $4,000?",Continuing Education.md,1,1,1,1
+22,How many hours per week can I spend on learning projects?,Continuing Education.md,1,1,1,1
+23,Does the learning budget roll over to the next year?,Continuing Education.md,1,1,1,1
+24,What health insurance does Clef offer?,Healthcare and Disability Insurance.md,1,1,1,1
+25,Does the company cover dental and vision?,Healthcare and Disability Insurance.md,1,1,1,1
+26,What percentage of health insurance does Clef pay for dependents?,Healthcare and Disability Insurance.md,1,1,1,1
+27,"I already have insurance through my spouse, can I opt out?",Healthcare and Disability Insurance.md,1,1,1,1
+28,When does my health coverage start after joining?,Healthcare and Disability Insurance.md,1,1,1,1
+29,Is there life insurance or disability coverage?,Healthcare and Disability Insurance.md,1,1,1,1
+30,How is salary determined at Clef?,Salary and Equity Compensation.md,1,1,1,1
+31,What's the salary for a technical employee with more than 5 years experience?,Salary and Equity Compensation.md,1,1,1,1
+32,How many stock options do new employees receive?,Salary and Equity Compensation.md,1,1,1,1
+33,What is the equity vesting schedule?,Salary and Equity Compensation.md,1,1,1,1
+34,Can I trade $5k of salary for more equity?,Salary and Equity Compensation.md,1,1,1,1
+35,Why doesn't Clef negotiate salaries individually?,Salary and Equity Compensation.md,1,2,1,1
+36,How much do the founders make?,Salary and Equity Compensation.md,3,999,3,3
+37,How much is the referral bonus?,Referral Bonuses.md,1,1,1,1
+38,"If I refer someone who gets hired, when do I get paid?",Referral Bonuses.md,1,2,1,1
+39,What's the process for referring a friend to work at Clef?,Referral Bonuses.md,1,1,1,1
+40,Are founders eligible for the referral bonus?,Referral Bonuses.md,1,1,1,1
+41,How long does a referred candidate have to be hired within?,Referral Bonuses.md,1,1,1,1
+42,How many days of bereavement leave can I take?,Other Protected Absences.md,1,1,1,1
+43,"I got called for jury duty, am I still paid?",Other Protected Absences.md,1,1,1,1
+44,"My mother-in-law passed away, can I take time off?",Other Protected Absences.md,1,1,1,1
+45,What is pregnancy disability leave and how long is it?,Other Protected Absences.md,1,1,1,1
+46,"I have a family emergency, what should I do?",Other Protected Absences.md,2,3,1,1
+47,What's Clef's policy on working from home?,Working Remotely.md,1,1,1,1
+48,Can I work remotely for a whole week?,Working Remotely.md,1,1,1,1
+49,Do I need my manager's approval to work remotely for an extended period?,Working Remotely.md,1,1,1,1
+50,Does Clef pay for coworking spaces?,Working Remotely.md,1,2,1,1
+51,What happens if I'm not performing well while working remotely?,Working Remotely.md,1,2,1,1
+52,How far in advance do I need to notify the team about extended remote work?,Working Remotely.md,1,1,1,1
+53,I want to work from my partner's place in another city for a few days — what do I need to do?,Working Remotely.md,1,1,1,1
+54,Can the company read my emails?,Employee Privacy.md,1,1,1,1
+55,Does Clef monitor internet usage?,Employee Privacy.md,1,1,1,1
+56,Can my manager search my desk or laptop?,Employee Privacy.md,1,1,1,1
+57,Is it okay to send personal emails from my work account?,Employee Privacy.md,1,1,1,1
+58,What should I do if I think my computer has a virus?,Employee Privacy.md,1,2,1,1
+59,Can I share my work email password with a coworker?,Employee Privacy.md,1,1,1,1
+60,What behavior is not tolerated in Clef community spaces?,Code of Conduct in the Community.md,1,1,1,1
+61,Someone is being rude in the Clef Slack channel — what should I do?,Code of Conduct in the Community.md,1,5,1,1
+62,Does the code of conduct apply to Twitter and Facebook?,Code of Conduct in the Community.md,1,1,1,1
+63,Who do I contact about harassment in a Clef community?,Code of Conduct in the Community.md,1,1,1,1
+64,How do I file a workplace complaint at Clef?,Complaint Policy.md,1,1,1,1
+65,Will I face retaliation for reporting a problem?,Complaint Policy.md,1,1,1,1
+66,What happens after I submit a complaint?,Complaint Policy.md,1,1,1,1
+67,What if my complaint is about one of the founders?,Complaint Policy.md,1,1,1,1
+68,Is alcohol allowed in the office?,Drug and Alcohol Policy.md,1,1,1,1
+69,What is Clef's policy on recreational drug use?,Drug and Alcohol Policy.md,1,1,1,1
+70,Can we have beer at a company celebration?,Drug and Alcohol Policy.md,2,1,1,1
+71,Can Clef fire me without a reason?,At-Will Employment.md,999,2,1,1
+72,What does at-will employment mean at Clef?,At-Will Employment.md,1,1,1,1
+73,Who can change my at-will employment status?,At-Will Employment.md,1,1,1,1
+74,Does Clef discriminate based on gender or race?,Equal Opportunity Employment.md,1,1,1,1
+75,What is Clef's stance on diversity in hiring?,Equal Opportunity Employment.md,1,1,1,1
+76,What are Clef's core values?,Clef Values.md,999,999,999,999
+77,What does 'be better today than yesterday' mean?,Clef Values.md,1,3,2,2
+78,How does Clef think about inclusion?,Clef Values.md,999,999,999,999
+79,Why does Clef emphasize trust?,Clef Values.md,999,999,999,999
+80,What is Clef's mission?,Mission Statement.md,999,999,999,999
+81,What problem is Clef trying to solve?,Mission Statement.md,999,999,999,999
+82,What should I expect on my first day at Clef?,Welcome to Clef.md,1,2,2,2
+83,What are the typical working hours at Clef?,Welcome to Clef.md,1,1,1,1
+84,How does Clef celebrate a new employee's first day?,Welcome to Clef.md,2,1,999,999
+85,"I just got hired, where do I start?",Welcome to Clef.md,2,2,2,2
+86,What is the goal for my first day at work?,Welcome to Clef.md,1,2,1,1
+87,Who is the CEO of Clef?,Handbook Introduction.md,3,1,1,2
+88,What is the purpose of the employee handbook?,Handbook Introduction.md,1,1,1,1
+89,How often are one-on-one meetings held?,One on Ones.md,1,2,1,1
+90,Who sets the agenda for 1:1 meetings?,One on Ones.md,1,2,1,1
+91,What's the minimum duration of a one on one?,One on Ones.md,1,1,1,1
+92,How are OKRs scored at Clef?,Objectives and Key Results.md,1,1,1,1
+93,How often do we set OKRs?,Objectives and Key Results.md,1,1,1,1
+94,Are OKRs used for performance reviews?,Objectives and Key Results.md,1,1,1,1
+95,What is a good OKR score?,Objectives and Key Results.md,1,1,1,1
+96,What happens on Fridays in terms of team updates?,Communication and Transparency.md,2,1,1,1
+97,How should I use Slack when working remotely?,Communication and Transparency.md,1,1,1,1
+98,Should conversations happen in public or private Slack channels?,Communication and Transparency.md,1,1,1,1
+99,Who do employees report to at Clef?,Direct Reports.md,2,3,1,1
+100,What is Clef's core product value?,Product Manifesto.md,999,3,999,999
+101,Why do people love using Clef over other login solutions?,Product Manifesto.md,1,1,1,1
+102,How is company spending organized at Clef?,Budgeting.md,999,999,999,999
+103,What are the budget categories at Clef?,Budgeting.md,999,3,999,999
+104,What is a hack week and when does it happen?,Hack Weeks.md,1,1,1,1
+105,Can I work on personal projects during hack week?,Hack Weeks.md,1,1,1,1
+106,How should files and projects be organized at Clef?,Sharing Files.md,1,1,1,1
+107,What are the base directories every Clef employee should have?,Sharing Files.md,1,1,1,1
+108,What are the meeting time requirements at Clef?,Effective Meetings.md,999,3,999,999
+109,Do meetings need to have a video call option?,Effective Meetings.md,1,1,1,1
+110,How are policy changes proposed and adopted at Clef?,Policy Changes.md,1,1,1,1
+111,What tools does Clef use for policy discussions?,Policy Changes.md,4,1,3,3
+112,What kind of time off can I get after becoming a new parent?,New Parent Leave.md,1,1,1,1
+113,How does taking parental leave affect my sabbatical eligibility?,New Parent Leave.md,1,2,1,1
+114,What's the difference between sick leave and vacation?,Vacation and Sick Leave.md,1,1,1,1
+115,If something bad happens at work who should I talk to — my manager or HR?,Complaint Policy.md,999,5,5,5
+116,Does the code of conduct apply inside the office or only online?,Code of Conduct in the Community.md,2,1,1,1

@@ -1,0 +1,12 @@
+{
+    "documents": 30,
+    "total_chunks": 96,
+    "average_words_per_chunk": 121.05,
+    "median_words_per_chunk": 97.5,
+    "minimum_words": 24,
+    "maximum_words": 336,
+    "chunks_above_max": 0,
+    "chunks_below_30_words": 4,
+    "empty_chunks": 0,
+    "duplicate_chunk_records": 0
+}

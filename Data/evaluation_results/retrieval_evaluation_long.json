@@ -1,0 +1,580 @@
+{
+  "evaluation_date": "2026-08-15T14:28:42.744973",
+  "total_queries": 41,
+  "results": [
+    {
+      "query": "I've been working at Clef for about six months now and I'm wondering how many vacation days I've accumulated so far and whether unused sick days carry over to the next year",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Vacation and Sick Leave.md",
+        "Sabbatical.md",
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "My spouse and I are expecting a baby in a few months and I want to understand the full maternity and paternity leave policy including how it interacts with California state disability programs",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Healthcare and Disability Insurance.md",
+        "Working Remotely.md",
+        "Equal Opportunity Employment.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I recently adopted a child and I'm trying to figure out within what timeframe I need to take my new parent leave and whether I need to give any advance notice to my team",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I have a chronic illness that sometimes makes it hard to come into the office regularly — is there any policy around flexible work arrangements or disability support for someone in my situation",
+      "expected": "Vacation and Sick Leave.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Healthcare and Disability Insurance.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "If I take the full twelve weeks of new parent leave does that time count toward my five year requirement for becoming eligible for a sabbatical or does it pause the clock",
+      "expected": "New Parent Leave.md",
+      "retrieved": [
+        "New Parent Leave.md",
+        "Sabbatical.md",
+        "Other Protected Absences.md",
+        "Vacation and Sick Leave.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I've been at Clef for almost five years and I'm interested in taking a sabbatical to volunteer at a nonprofit — do I need to present something to the team when I return and how far in advance should I notify everyone",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Sabbatical.md",
+        "Working Remotely.md",
+        "Welcome to Clef.md",
+        "Other Protected Absences.md",
+        "New Parent Leave.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm worried that if I take a three month sabbatical I might lose my accrued sick days — can you explain whether paid time off continues to accumulate during the sabbatical period or if it freezes",
+      "expected": "Sabbatical.md",
+      "retrieved": [
+        "Sabbatical.md",
+        "Vacation and Sick Leave.md",
+        "New Parent Leave.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I want to attend a machine learning conference in Europe next quarter — would the flight and hotel costs come out of my learning budget or is there a separate travel budget for professional development events",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Budgeting.md",
+        "Policy Changes.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I've been invited to speak at a cybersecurity conference and I'm wondering how much Clef will cover for travel expenses and whether this comes from the same pool as the annual learning budget or a different one",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Working Remotely.md",
+        "Welcome to Clef.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I started working at Clef in July of this year and I want to know if my learning budget is the full four thousand dollars or if it is reduced since I joined after the midpoint of the calendar year",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Continuing Education.md",
+        "Continuing Education.md",
+        "Vacation and Sick Leave.md",
+        "Working Remotely.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Can I use a portion of my work hours during the week to study for a certification that is related to my role at Clef and if so is there a limit on how many hours I can dedicate to that",
+      "expected": "Continuing Education.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Welcome to Clef.md",
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": false,
+      "top_5": false
+    },
+    {
+      "query": "My wife already has health insurance through her employer and I don't need Clef's medical plan — is there any financial incentive or allowance if I choose to waive my medical coverage through TriNet",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "New Parent Leave.md",
+        "Other Protected Absences.md",
+        "Salary and Equity Compensation.md",
+        "Continuing Education.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm starting at Clef next month and I want to add my two kids to my health insurance plan — what percentage of the dependent coverage does the company contribute and when does the coverage actually begin",
+      "expected": "Healthcare and Disability Insurance.md",
+      "retrieved": [
+        "Healthcare and Disability Insurance.md",
+        "New Parent Leave.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Referral Bonuses.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm a software engineer with seven years of experience and I'd like to understand what my starting salary would be at Clef and whether there is room for individual negotiation beyond the standard rubric",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Welcome to Clef.md",
+        "Referral Bonuses.md",
+        "Continuing Education.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I noticed the equity vesting schedule at Clef is six years instead of the typical four — can you explain the reasoning behind that and how many stock options a new employee typically receives",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Welcome to Clef.md",
+        "Salary and Equity Compensation.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "If I choose to take the five thousand dollar salary reduction in exchange for additional equity how many extra stock options would I receive and what total percentage of the company would that represent",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "At-Will Employment.md",
+        "Budgeting.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I referred a friend to Clef about four months ago and she just got an offer — do I qualify for the referral bonus and when exactly would I expect to receive the payment after she starts",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Continuing Education.md",
+        "New Parent Leave.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "Two people on the team both claim they referred the same candidate independently — how does the company determine who gets the five thousand dollar referral bonus in a situation like this",
+      "expected": "Referral Bonuses.md",
+      "retrieved": [
+        "Referral Bonuses.md",
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Direct Reports.md",
+        "Clef Values.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm planning to work from my parents house in another state for about ten days next month — do I need to get my manager's approval beforehand and how much advance notice should I give the rest of the team",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "New Parent Leave.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I've been working remotely a couple days a week but my manager says my productivity has dropped — can they revoke my remote work privileges entirely and what process has to happen before that decision is made",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "When I'm working from home I know I should be available on Slack but I'm unclear about the exact expectations — is there a specific set of hours where I need to be reachable for meetings and collaboration",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I want to work from a coffee shop while traveling but I'm concerned about the internet connection requirements — what are the specific prerequisites Clef expects me to have in place before working from somewhere irregular",
+      "expected": "Working Remotely.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Welcome to Clef.md",
+        "Other Protected Absences.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I sometimes send personal emails from my Clef email address and I want to know if the company has the ability to read those messages even if I mark them as private or personal in the subject line",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I keep a personal journal on my work laptop and I want to know if management has the right to access files stored on company devices or if my personal data on company property is protected",
+      "expected": "Employee Privacy.md",
+      "retrieved": [
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Employee Privacy.md",
+        "Working Remotely.md",
+        "Employee Privacy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "A community member made an offensive joke in the Clef Slack channel and someone complained about it — what does the code of conduct say about jokes and what are the consequences for the person who made the comment",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Code of Conduct in the Community.md",
+        "Policy Changes.md",
+        "Complaint Policy.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I witnessed someone being harassed at a Clef-hosted event last week and I want to report it — who exactly should I contact and does it matter if the harassment was not directed at me personally",
+      "expected": "Code of Conduct in the Community.md",
+      "retrieved": [
+        "Code of Conduct in the Community.md",
+        "Complaint Policy.md",
+        "Complaint Policy.md",
+        "Employee Privacy.md",
+        "Drug and Alcohol Policy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I want to file a complaint about something that happened at work but I'm afraid my manager might treat me differently afterward — does Clef have a policy against retaliation for employees who report issues",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Other Protected Absences.md",
+        "Drug and Alcohol Policy.md",
+        "Complaint Policy.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "If my complaint involves one of the founders of the company how is the investigation handled differently and is there a possibility that an outside investigator would be brought in to ensure impartiality",
+      "expected": "Complaint Policy.md",
+      "retrieved": [
+        "Complaint Policy.md",
+        "Complaint Policy.md",
+        "Other Protected Absences.md",
+        "Budgeting.md",
+        "At-Will Employment.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm new to the OKR system and I don't understand how scoring works at the end of the quarter — if I score a perfect ten on all my key results does that mean I set my goals too low or is that considered ideal",
+      "expected": "Objectives and Key Results.md",
+      "retrieved": [
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Budgeting.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I want to set a key result that involves delivering a project by a certain date — how should I structure the scoring so that points are deducted fairly if the project ends up being delivered late",
+      "expected": "Objectives and Key Results.md",
+      "retrieved": [
+        "Objectives and Key Results.md",
+        "Sharing Files.md",
+        "Objectives and Key Results.md",
+        "Objectives and Key Results.md",
+        "Effective Meetings.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I have a problem with a coworker and I want to bring it up during my one on one meeting — will my manager step in to address it directly or do they need my permission before talking to that person about it",
+      "expected": "One on Ones.md",
+      "retrieved": [
+        "One on Ones.md",
+        "Policy Changes.md",
+        "One on Ones.md",
+        "Working Remotely.md",
+        "Complaint Policy.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "My one on one meetings with my manager feel more like status updates than meaningful conversations — what does Clef recommend regarding the agenda and tone of these meetings to make them more productive",
+      "expected": "One on Ones.md",
+      "retrieved": [
+        "One on Ones.md",
+        "One on Ones.md",
+        "Welcome to Clef.md",
+        "One on Ones.md",
+        "Working Remotely.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "When I set my Slack status to Do Not Disturb and the indicator shows green what does that signal to my teammates — should they expect a response immediately or should they wait until my focus time is over",
+      "expected": "Communication and Transparency.md",
+      "retrieved": [
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Communication and Transparency.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I've noticed that a lot of important decisions are being discussed in private Slack channels and I feel out of the loop — what is Clef's official guideline on using public versus private channels for team conversations",
+      "expected": "Communication and Transparency.md",
+      "retrieved": [
+        "Communication and Transparency.md",
+        "Communication and Transparency.md",
+        "Policy Changes.md",
+        "Code of Conduct in the Community.md",
+        "Communication and Transparency.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I have an idea for a hack week project that would require three other people to help me build it — how do I pitch this project to the team and are there any restrictions on what we can work on during that week",
+      "expected": "Hack Weeks.md",
+      "retrieved": [
+        "Hack Weeks.md",
+        "Working Remotely.md",
+        "Policy Changes.md",
+        "Sharing Files.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "When a project is completed and no longer active how should I archive the project folder and what naming convention does Clef use so that old projects are easy to find later on",
+      "expected": "Sharing Files.md",
+      "retrieved": [
+        "Sharing Files.md",
+        "Sharing Files.md",
+        "Communication and Transparency.md",
+        "Working Remotely.md",
+        "Welcome to Clef.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I need to schedule a meeting with a remote colleague but they are in a different time zone — what are the core hours during which all Clef employees are expected to be available for face to face meetings",
+      "expected": "Effective Meetings.md",
+      "retrieved": [
+        "Working Remotely.md",
+        "Effective Meetings.md",
+        "Working Remotely.md",
+        "Working Remotely.md",
+        "Working Remotely.md"
+      ],
+      "top_1": false,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I disagree with a recent policy change that was merged into the handbook and I want to voice my concerns — what is the proper channel for giving feedback and will there be a team discussion about it before it takes effect",
+      "expected": "Policy Changes.md",
+      "retrieved": [
+        "Policy Changes.md",
+        "Policy Changes.md",
+        "Policy Changes.md",
+        "Policy Changes.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I heard that employees need to sign an acknowledgement every time the handbook is updated — how often do these updates get adopted and is there a formal review process before changes become official policy",
+      "expected": "Policy Changes.md",
+      "retrieved": [
+        "Policy Changes.md",
+        "Policy Changes.md",
+        "Working Remotely.md",
+        "Policy Changes.md",
+        "Policy Changes.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I'm pregnant and dealing with severe morning sickness that makes it hard to come to work every day — can I take intermittent pregnancy disability leave while still keeping my job and benefits at Clef",
+      "expected": "Other Protected Absences.md",
+      "retrieved": [
+        "Other Protected Absences.md",
+        "New Parent Leave.md",
+        "Healthcare and Disability Insurance.md",
+        "Vacation and Sick Leave.md",
+        "Other Protected Absences.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    },
+    {
+      "query": "I want to understand how Clef avoids salary bias during the hiring process — is there a standard pay scale for all roles or does compensation depend on individual negotiation skills and previous salary history",
+      "expected": "Salary and Equity Compensation.md",
+      "retrieved": [
+        "Salary and Equity Compensation.md",
+        "Salary and Equity Compensation.md",
+        "Equal Opportunity Employment.md",
+        "Referral Bonuses.md",
+        "Handbook Introduction.md"
+      ],
+      "top_1": true,
+      "top_3": true,
+      "top_5": true
+    }
+  ]
+}

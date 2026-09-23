@@ -1,0 +1,219 @@
+[
+  {
+    "document_id": "benefits_and_perks_continuing_education",
+    "title": "Continuing Education",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Continuing Education.md"
+  },
+  {
+    "document_id": "benefits_and_perks_healthcare_and_disability_insurance",
+    "title": "Healthcare and Disability Insurance",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Healthcare and Disability Insurance.md"
+  },
+  {
+    "document_id": "benefits_and_perks_holiday_list",
+    "title": "Clef Observed Holiday List",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Holiday List.md"
+  },
+  {
+    "document_id": "benefits_and_perks_new_parent_leave",
+    "title": "New Parent Leave",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/New Parent Leave.md"
+  },
+  {
+    "document_id": "benefits_and_perks_other_protected_absences",
+    "title": "Other Protected Absences",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Other Protected Absences.md"
+  },
+  {
+    "document_id": "benefits_and_perks_referral_bonuses",
+    "title": "Referral Bonuses",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Referral Bonuses.md"
+  },
+  {
+    "document_id": "benefits_and_perks_sabbatical",
+    "title": "Sabbatical",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Sabbatical.md"
+  },
+  {
+    "document_id": "benefits_and_perks_vacation_and_sick_leave",
+    "title": "Vacation and Sick Leave",
+    "category": "Benefits and Perks",
+    "access_level": "employee",
+    "source_file": "Benefits and Perks/Vacation and Sick Leave.md"
+  },
+  {
+    "document_id": "clef_values",
+    "title": "Clef Core Values",
+    "category": "General",
+    "access_level": "employee",
+    "source_file": "Clef Values.md"
+  },
+  {
+    "document_id": "employment_policies_at_will_employment",
+    "title": "At-Will Employment Policy",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/At-Will Employment.md"
+  },
+  {
+    "document_id": "employment_policies_code_of_conduct_in_the_community",
+    "title": "Code of Conduct",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Code of Conduct in the Community.md"
+  },
+  {
+    "document_id": "employment_policies_complaint_policy",
+    "title": "Complaint Policy",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Complaint Policy.md"
+  },
+  {
+    "document_id": "employment_policies_drug_and_alcohol_policy",
+    "title": "Drug and Alcohol Policy",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Drug and Alcohol Policy.md"
+  },
+  {
+    "document_id": "employment_policies_employee_privacy",
+    "title": "Employee Privacy",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Employee Privacy.md"
+  },
+  {
+    "document_id": "employment_policies_equal_opportunity_employment",
+    "title": "Equal Opportunity Employment",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Equal Opportunity Employment.md"
+  },
+  {
+    "document_id": "employment_policies_salary_and_equity_compensation",
+    "title": "Salary and Equity Compensation",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Salary and Equity Compensation.md"
+  },
+  {
+    "document_id": "employment_policies_working_remotely",
+    "title": "Working Remotely",
+    "category": "Employment Policies",
+    "access_level": "employee",
+    "source_file": "Employment Policies/Working Remotely.md"
+  },
+  {
+    "document_id": "hiring_documents_handbook_introduction",
+    "title": "Clef Policies",
+    "category": "Hiring Documents",
+    "access_level": "employee",
+    "source_file": "Hiring Documents/Handbook Introduction.md"
+  },
+  {
+    "document_id": "mission_statement",
+    "title": "Mission Statement",
+    "category": "General",
+    "access_level": "employee",
+    "source_file": "Mission Statement.md"
+  },
+  {
+    "document_id": "onboarding_documents_communication_and_transparency",
+    "title": "Communication and Transparency",
+    "category": "Onboarding Documents",
+    "access_level": "employee",
+    "source_file": "Onboarding Documents/Communication and Transparency.md"
+  },
+  {
+    "document_id": "onboarding_documents_direct_reports",
+    "title": "Direct Reports",
+    "category": "Onboarding Documents",
+    "access_level": "employee",
+    "source_file": "Onboarding Documents/Direct Reports.md"
+  },
+  {
+    "document_id": "onboarding_documents_objectives_and_key_results",
+    "title": "Objectives and Key Results",
+    "category": "Onboarding Documents",
+    "access_level": "employee",
+    "source_file": "Onboarding Documents/Objectives and Key Results.md"
+  },
+  {
+    "document_id": "onboarding_documents_one_on_ones",
+    "title": "One on Ones",
+    "category": "Onboarding Documents",
+    "access_level": "employee",
+    "source_file": "Onboarding Documents/One on Ones.md"
+  },
+  {
+    "document_id": "onboarding_documents_product_manifesto",
+    "title": "Product Manifesto",
+    "category": "Onboarding Documents",
+    "access_level": "employee",
+    "source_file": "Onboarding Documents/Product Manifesto.md"
+  },
+  {
+    "document_id": "onboarding_documents_welcome_to_clef",
+    "title": "Welcome to Clef",
+    "category": "Onboarding Documents",
+    "access_level": "employee",
+    "source_file": "Onboarding Documents/Welcome to Clef.md"
+  },
+  {
+    "document_id": "operations_documents_budgeting",
+    "title": "Budgeting",
+    "category": "Operations Documents",
+    "access_level": "employee",
+    "source_file": "Operations Documents/Budgeting.md"
+  },
+  {
+    "document_id": "operations_documents_effective_meetings",
+    "title": "Effective meetings and group work",
+    "category": "Operations Documents",
+    "access_level": "employee",
+    "source_file": "Operations Documents/Effective Meetings.md"
+  },
+  {
+    "document_id": "operations_documents_hack_weeks",
+    "title": "Hack Weeks",
+    "category": "Operations Documents",
+    "access_level": "employee",
+    "source_file": "Operations Documents/Hack Weeks.md"
+  },
+  {
+    "document_id": "operations_documents_sharing_files",
+    "title": "Sharing Files at Clef",
+    "category": "Operations Documents",
+    "access_level": "employee",
+    "source_file": "Operations Documents/Sharing Files.md"
+  },
+  {
+    "document_id": "policy_changes",
+    "title": "Policy Changes",
+    "category": "General",
+    "access_level": "employee",
+    "source_file": "Policy Changes.md"
+  },
+  {
+    "document_id": "readme",
+    "title": "Our Handbook",
+    "category": "General",
+    "access_level": "employee",
+    "source_file": "README.md"
+  }
+]

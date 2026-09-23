@@ -1,0 +1,17 @@
+{
+  "architecture": "Semantic Retrieval + Cross-Encoder Reranker",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "reranker_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "semantic_top_k": 10,
+  "final_top_k": 5,
+  "corpus_chunks": 96,
+  "faiss_vectors": 96,
+  "source_phase": "Phase 6.5",
+  "phase_6_5_selection_score": 0.9061,
+  "phase_6_5_dev_mean_top1": 0.8825,
+  "phase_6_5_dev_mean_top3": 0.9355,
+  "phase_6_5_dev_mean_top5": 0.9518,
+  "phase_6_5_holdout_mean_top1": 0.8194,
+  "phase_6_5_holdout_mean_top3": 0.9167,
+  "phase_6_5_holdout_mean_top5": 0.9167
+}
