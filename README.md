@@ -258,7 +258,7 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**[Your Name]**
+**Anshul Gupta**
 
 B.Tech in Information Technology
 Indian Institute of Information Technology Vadodara
